@@ -1,1 +1,2 @@
-      Some Introductory Codes of Streamlit
+Some Introductory Codes of Streamlit
+
