@@ -6,11 +6,12 @@ coln1 , coln2 = st.columns(2)
 with coln1 :
 
     st.write("Hot Coffee")
-    st.image("https://www.scrs.in/uploads/members/file_ac8a298.jpg ",width=250)
+    st.image("an image address",width=250)
     vote1 = st.button("Vote Hot Coffee")
 
 with coln2 :
     st.write("Cold Coffee")
+    st.image("an image address",width=200)
     vote2 = st.button("Vote Cold Coffee")
 
 if vote1 :
